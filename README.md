@@ -13,3 +13,5 @@ which is opened to default port: http://localhost:8501/
 
 
 best to deploy to a cloud server if you have an undersized less powerful computer.
+
+you can set this up at <a href="https://huggingface.co/spaces/">https://huggingface.co/spaces/</a>
